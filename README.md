@@ -50,7 +50,7 @@ Este projeto simula um sistema de pedidos online, inspirado no modelo de deliver
 ## Estrutura do Projeto
 
 ```
-simulador-pedido/
+Python-Food/
 │
 ├── app.py                # Código principal da aplicação
 ├── rota_cache.json       # Arquivo de cache para armazenar rotas
