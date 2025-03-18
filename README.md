@@ -24,7 +24,7 @@ Este projeto simula um sistema de pedidos online, inspirado no modelo de deliver
 1. Clone este repositório para sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/simulador-pedido.git
+    git clone https://github.com/jaugustoguerra/Python-Food
     ```
 
 2. Instale as dependências necessárias:
