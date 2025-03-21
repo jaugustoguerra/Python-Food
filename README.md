@@ -73,4 +73,4 @@ Sinta-se à vontade para contribuir com melhorias para o projeto! Para sugestõe
 
 ## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
+Este projeto é licenciado sob a [MIT License](LICENSE.txt).
